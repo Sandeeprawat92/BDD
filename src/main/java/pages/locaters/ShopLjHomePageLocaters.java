@@ -4,6 +4,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
+/*@author : sandeep rawat
+Date:*/
 public class ShopLjHomePageLocaters {
 
 	@FindBy(how = How.XPATH, using = "//span[contains(text(),'Mouldings')]")

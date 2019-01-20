@@ -9,6 +9,9 @@ import utilites.SeleniumDriver;
 
 /*clean test-Dcucumber.options="--tags @tag1,@tag2,@tag3"*/
 
+/*@author : sandeep rawat
+Date:*/
+
 public class ShopLjHomePageActions {
 
 	ShopLjHomePageLocaters shopLjHomePageLocaters;
