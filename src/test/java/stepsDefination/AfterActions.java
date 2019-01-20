@@ -12,6 +12,7 @@ public class AfterActions {
 
 	@After
 	public static void teardown(Scenario scenario) {
+		/* scenario.getStatus(); */
 
 		WebDriver driver = SeleniumDriver.getDriver();
 

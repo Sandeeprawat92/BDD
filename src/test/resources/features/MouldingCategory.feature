@@ -12,3 +12,7 @@ Feature: Acceptanace testing to validate Moulding category page is working fine.
     Then click on "Moulding" link
     And the page title should be "Mouldings"
     And select any product from the moulding page
+
+    
+    
+    

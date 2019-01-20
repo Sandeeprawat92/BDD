@@ -5,6 +5,10 @@ import org.openqa.selenium.support.PageFactory;
 import pages.locaters.ShopLjHomePageLocaters;
 import utilites.SeleniumDriver;
 
+
+
+/*clean test-Dcucumber.options="--tags @tag1,@tag2,@tag3"*/
+
 public class ShopLjHomePageActions {
 
 	ShopLjHomePageLocaters shopLjHomePageLocaters;
